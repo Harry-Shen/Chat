@@ -6,7 +6,7 @@ const jwt = require("jsonwebtoken");
 const faker = require("faker");
 
 const jwt_secret =
-    "6c4d1cb5fbb9e6fd1b648c0fc94e760a81ca0d59926a4565cb257f83c406b7dd6917cd87f66929895bd1cccac7a5b12767fe13ee6ed090286c3d70179be05b4e";
+    "";
 
 module.exports = {
     jwt_secret: jwt_secret,
